@@ -7,3 +7,5 @@
 > Click on the paypal button
 > we will get the interface to login our paypal account
 > login and pay the amount
+![paypal ss](https://github.com/Varudhini-67/payment_gatway/assets/95491579/c63e2367-60a2-4b1c-a75c-62fd4963a7b8)
+
